@@ -1,6 +1,4 @@
 
-import numpy
-
 inputArray = [1, 2, 3, 4, 5]
 #inputArray = [3, 2, 1]
 
